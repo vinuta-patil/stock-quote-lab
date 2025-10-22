@@ -24,3 +24,20 @@ It was created as part of a networking programming lab assignment to practice Py
 Install the required package:
 ```bash
 pip install yfinance
+
+
+---
+
+**## Example output**
+
+Stock Quote (yfinance)
+Example tickers: AAPL, MSFT, GOOGL, ADBE
+Type 'q' to quit.
+
+Please enter a symbol: ADBE
+
+Wed Oct 22 13:35:10 PDT 2025
+
+Adobe Inc. (ADBE)
+
+512.83 +3.72 (+0.73%) USD
