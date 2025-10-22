@@ -25,9 +25,8 @@ Install the required package:
 ```bash
 pip install yfinance
 ```
+## ▶️ Example Output
 
-
-Example Output
 Stock Quote (yfinance)
 Example tickers: AAPL, MSFT, GOOGL, ADBE
 Type 'q' to quit.
